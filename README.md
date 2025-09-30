@@ -24,8 +24,10 @@ Outputs – Results, visualizations, and processed data generated from the noteb
              4. Other libraries as required
 
 📖 How to Run
+
 Clone this repository:
 git clone https://github.com/eshusharma7/VOIS_AICTE_Oct2025_EshuSharma.git
+
 cd VOIS_AICTE_Oct2025_EshuSharma
 
 Open Jupyter Notebook:
